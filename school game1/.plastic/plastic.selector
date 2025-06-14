@@ -1,0 +1,4 @@
+repository "DEAD CAMEL/school game1@18968280593853@cloud"
+  path "/"
+    br "/main"
+    co "/main"
